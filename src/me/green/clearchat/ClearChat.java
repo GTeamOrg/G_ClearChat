@@ -18,8 +18,10 @@ public class ClearChat extends JavaPlugin{
 	
 	public static ClearChat plugin;
 	public static Server server;
-	
-	
+/*	
+ClearChat plugin was built by the GTeamOrg.
+Best regards to XGreenPlayz12.
+*/
 	public void onLoad()
 	{
 		plugin = this;
