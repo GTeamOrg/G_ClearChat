@@ -1,0 +1,9 @@
+name: G_ClearChat
+main: me.green.clearchat.ClearChat
+authors: [XGreenPlayz12]
+version: 1.1.0
+description:  >
+              Clear the server's chat
+commands:
+  clearchat:
+    description: Shows a list of commands for the plugin.
